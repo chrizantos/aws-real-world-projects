@@ -464,7 +464,7 @@
         - Deletion protection: `Disable`
     - Click `CREATE DATABASE`
 
-## STEP 10: Create a Route 53 Hosted Zone and Record For The Frontend Load Balancer Endpoint
+## STEP 10: Create a Route 53 Hosted Zone and Record For The Frontend Load Balancer Endpoint..
 
 
 
